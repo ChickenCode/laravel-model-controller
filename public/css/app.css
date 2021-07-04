@@ -1,0 +1,14 @@
+.card {
+  text-align: center;
+  background-color: yellow;
+  margin: 1px;
+  flex-basis: 25%;
+  border: 1px black solid;
+}
+
+.flex {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
